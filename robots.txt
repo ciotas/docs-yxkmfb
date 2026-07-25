@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-jdqanq.wedang77land.store/sitemap.xml
